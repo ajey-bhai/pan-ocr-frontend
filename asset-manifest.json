@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pan-ocr-frontend/static/css/main.5fe50146.css",
-    "main.js": "/pan-ocr-frontend/static/js/main.ae71cf98.js",
+    "main.js": "/pan-ocr-frontend/static/js/main.36007449.js",
     "service-worker.js": "/pan-ocr-frontend/service-worker.js",
     "index.html": "/pan-ocr-frontend/index.html",
     "main.5fe50146.css.map": "/pan-ocr-frontend/static/css/main.5fe50146.css.map",
-    "main.ae71cf98.js.map": "/pan-ocr-frontend/static/js/main.ae71cf98.js.map"
+    "main.36007449.js.map": "/pan-ocr-frontend/static/js/main.36007449.js.map"
   },
   "entrypoints": [
     "static/css/main.5fe50146.css",
-    "static/js/main.ae71cf98.js"
+    "static/js/main.36007449.js"
   ]
 }
