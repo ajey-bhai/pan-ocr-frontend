@@ -6,6 +6,7 @@ interface PanDetails {
   name: string | null;
   father_name: string | null;
   dob: string | null;
+  gender: string | null;
 }
 
 function App() {
@@ -72,6 +73,7 @@ function App() {
           <p><strong>Name:</strong> {details.name || <em>Not found</em>}</p>
           <p><strong>Father's Name:</strong> {details.father_name || <em>Not found</em>}</p>
           <p><strong>Date of Birth:</strong> {details.dob || <em>Not found</em>}</p>
+          <p><strong>Gender:</strong> {details.gender || <em>Not found</em>}</p>
         </div>
       )}
       <footer>
